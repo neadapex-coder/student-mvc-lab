@@ -1,0 +1,6 @@
+/config/database.php
+.env
+/vendor/
+/storage/logs/*.log
+.DS_Store
+Thumbs.db
