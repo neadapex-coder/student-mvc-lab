@@ -10,6 +10,7 @@
 <header class="site-header">
     <div class="site-header__inner">
         <a class="site-header__brand" href="index.php">Учёт студентов</a>
+        <a class="site-nav__link" href="index.php?action=products">Товары</a>
         <nav class="site-nav" aria-label="Основная навигация">
             <a class="site-nav__link" href="index.php">Список</a>
             <a class="site-nav__link" href="index.php?action=create">Добавить студента</a>
